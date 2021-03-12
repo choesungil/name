@@ -1,4 +1,4 @@
-![우주](https://user-images.githubusercontent.com/80079730/110880105-6e24d880-8321-11eb-936b-746c22f5d91c.jpg)
+![우주](https://user-images.githubusercontent.com/80079730/110880151-81d03f00-8321-11eb-96fa-af7bacf2a326.jpg)
 # name
 ## 안녕하세요 오늘이 처음입니다.
 ## 저는 최성일입니다.
