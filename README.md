@@ -7,7 +7,7 @@
 > > >pee
 [네이버](https://naver.com)
 
-![ㅗ](https://user-images.githubusercontent.com/80079730/110879127-c8249e80-831f-11eb-9d08-e04e1e7a9656.jpg)
+[![ㅗ](https://user-images.githubusercontent.com/80079730/110879127-c8249e80-831f-11eb-9d08-e04e1e7a9656.jpg)](https://www.youtube.com/watch?v=Za1wb_OADto&t=1s)
 
 [ㅂㄴㅂㄴ](https://www.youtube.com/watch?v=l5iTFiDzmOU)
 
